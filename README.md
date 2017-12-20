@@ -1,8 +1,8 @@
 # School_HW-projects
-Alex Bautista\n
-Bachelors of Science\n
-Computer Science\n
-San Francisco State University\n
+Alex Bautista  
+Bachelors of Science  
+Computer Science  
+San Francisco State University  
 
-This is a collections of past assignments from\n
-SFSU
+This is a collection of past  
+assignments from SFSU  
